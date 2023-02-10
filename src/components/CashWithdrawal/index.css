@@ -1,0 +1,69 @@
+.bg-container {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: #150b3e;
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  width: 50%;
+  border-radius: 20px;
+}
+
+.profile-picture-bg {
+  width: 90px;
+  background-color: #c7d2fe;
+  border-radius: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  font-size: 24px;
+  color: #7c3aed;
+}
+.first-container {
+  display: flex;
+  flex-direction: row;
+}
+.sarah-williams {
+  font-size: 26px;
+  margin-left: 30px;
+  color: #d4d2db;
+}
+.second-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.your-balance {
+  font-size: 24px;
+  color: #585076;
+  font-weight: 600;
+}
+.amount {
+  font-size: 40px;
+  color: #d4d2db;
+}
+.in-rupees {
+  font-size: 16px;
+  color: #585076;
+}
+.withdraw {
+  font-size: 30px;
+  color: #d4d2db;
+}
+.choose-sum {
+  font-size: 22px;
+  color: #585076;
+  font-weight: 600;
+}
+.ul-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
